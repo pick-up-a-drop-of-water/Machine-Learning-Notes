@@ -54,7 +54,8 @@
 
 >A model has one or more model parameters that determine what it will predict given a new instance (e.g., the slope of a linear model). A learning algorithm tries to find optimal values for these parameters such that the model generalizes well to new instances. A hyperparameter is a parameter of the learning algorithm itself, not of the model (e.g., the amount of regularization to apply).
 
-**13. What do model-based learning algorithms search for?What is the most common strategy they use to succeed?How do they make  predictions?**
+**13. What do model-based learning algorithms search for?What is the most common strategy they use to succeed?How do they make
+predictions?**
 
 >Model-based learning algorithms search for an optimal value for the model parameters such that the model will generalize well to new instances. We usually train such systems by minimizing a cost function that measures how bad the system is at making predictions on the training data, plus a penalty for model complexity if the model is regularized. To make predictions, we feed the new instance's features into the model's prediction function, using the parameter values found by the learning algorithm.
 
@@ -62,6 +63,7 @@
 
 >Some of the main challenges in Machine Learning are the lack of data, poor data quality, non-representative data, uninformative features, excessively simple models that underfit the training data, and excessively complex models that overfit the data.
 
-**15. If your model performs great on the training data but generalized poorly to new instances,what is happening?Can you name three  possible solutions?**
+**15. If your model performs great on the training data but generalized poorly to new instances,what is happening?Can you name three
+possible solutions?**
 
 >If a model performs great on the training data but generalizes poorly to new instances, the model is likely over-fitting the training data (or we got extremely lucky on the training data). Possible solutions to overfitting are getting more data, simplifying the model (select a simpler algorithm, reducing the number of parameters or features used, or regularized the model), or reducing the noise in the training data. 
