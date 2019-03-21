@@ -1,4 +1,4 @@
-# some of most important concepts in Machine Learning
+# :dart:some of most important concepts in Machine Learning:book:
 
 **1. How would you define Machine Learning?**
 
