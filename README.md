@@ -105,7 +105,7 @@ This checklist can guide you through your Machine Learning projects. There are e
 
 - [ ] Launch, monitor, and maintain your system.
 
-## Frame the Problem and Look at the Big Picture
+### Frame the Problem and Look at the Big Picture
 
 1. Define the objective in business terms.
 
@@ -131,7 +131,7 @@ This checklist can guide you through your Machine Learning projects. There are e
 
 12. Verify assumptions if possible.
 
-## Get the Data
+### Get the Data
 
 **Note:** automate as much as possible so you can easily get fresh data.
 
@@ -147,7 +147,7 @@ This checklist can guide you through your Machine Learning projects. There are e
 10. Check the size and type of data (time series, sample, geographical, etc.).
 11. Sample a test set, put it aside, and never look at it (no data snooping!).
 
-## Explore the Data
+### Explore the Data
 
 **Note:** try to get insights from a filed expert for these steps.
 
@@ -183,4 +183,4 @@ This checklist can guide you through your Machine Learning projects. There are e
 
 10. Document what you have learned.
 
-## Prepare the Data
+### Prepare the Data
