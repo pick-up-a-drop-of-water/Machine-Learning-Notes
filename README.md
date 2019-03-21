@@ -91,11 +91,11 @@ This checklist can guide you through your Machine Learning projects. There are e
 
 - [ ] [Frame the problem and look at the big picture](#Frame-the-Problem-and-Look-at-the-Big-Picture).
 
-- [ ] [Get the data](# Get the Data).
+- [ ] [Get the data](#Get-the-Data).
 
-- [ ] [Explore the data to gain insights](#Explore the Data).
+- [ ] [Explore the data to gain insights](#Explore-the-Data).
 
-- [ ] [Prepare the data to better expose the underlying data patterns to Machine Learning algorithms](#Prepare the Data).
+- [ ] [Prepare the data to better expose the underlying data patterns to Machine Learning algorithms](#Prepare-the-Data).
 
 - [ ] Explore many different models and short-list the best ones.
 
