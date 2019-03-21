@@ -183,4 +183,4 @@ This checklist can guide you through your Machine Learning projects. There are e
 
 10. Document what you have learned.
 
-### Prepare the Data
+### :happy:Prepare the Data
