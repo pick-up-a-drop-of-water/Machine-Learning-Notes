@@ -83,6 +83,7 @@ possible solutions?**
 **19. What is cross-validation and why would you prefer it to a validation set?**
 
 >Cross-validation is a technique that makes it possible to compare models (for model selection and hyperparameter tuning) without the need for a separate validation set. This saves precious training data.
+------
 
 - ## Checklist for Machine Learning project
 
