@@ -85,8 +85,7 @@ possible solutions?**
 >Cross-validation is a technique that makes it possible to compare models (for model selection and hyperparameter tuning) without the need for a separate validation set. This saves precious training data.
 ------
 
-- ## Checklist for Machine Learning project
-
+ ## Checklist for Machine Learning project
 
 This checklist can guide you through your Machine Learning projects. There are eight main steps:
 
