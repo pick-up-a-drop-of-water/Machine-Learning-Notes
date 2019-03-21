@@ -1,4 +1,4 @@
-# :dart:some of most important concepts in Machine Learning:book:
+# :book:some of most important concepts in Machine Learning
 
 **1. How would you define Machine Learning?**
 
@@ -85,7 +85,7 @@ possible solutions?**
 >Cross-validation is a technique that makes it possible to compare models (for model selection and hyperparameter tuning) without the need for a separate validation set. This saves precious training data.
 ------
 
- ## Checklist for Machine Learning project
+ ## :dart:Checklist for Machine Learning project
 
 This checklist can guide you through your Machine Learning projects. There are eight main steps:
 
@@ -183,4 +183,4 @@ This checklist can guide you through your Machine Learning projects. There are e
 
 10. Document what you have learned.
 
-### :smile:Prepare the Data
+### Prepare the Data
