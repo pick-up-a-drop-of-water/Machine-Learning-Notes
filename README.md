@@ -89,7 +89,7 @@ possible solutions?**
 
 This checklist can guide you through your Machine Learning projects. There are eight main steps:
 
-- [ ] [Frame the problem and look at the big picture](# Frame the Problem and Look at the Big Picture).
+- [ ] [Frame the problem and look at the big picture](#Frame-the-Problem-and-Look-at-the-Big-Picture).
 
 - [ ] [Get the data](# Get the Data).
 
