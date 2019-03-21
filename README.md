@@ -130,3 +130,57 @@ This checklist can guide you through your Machine Learning projects. There are e
 11. List the assumptions you (or others) have made so far.
 
 12. Verify assumptions if possible.
+
+## Get the Data
+
+**Note:** automate as much as possible so you can easily get fresh data.
+
+1. List the data you need and how much you need.
+2. Find and document where you can get that data.
+3. Check how much space it will take.
+4. Check legal obligations, and authorization if necessary.
+5. Get access authorizations.
+6. Create a workspace (with enough storage space).
+7. Get the data.
+8. Convert the data to a format you can easily manipulate (without changing the data itself).
+9. Ensure sensitive information is deleted or protected (e.g., anonymized).
+10. Check the size and type of data (time series, sample, geographical, etc.).
+11. Sample a test set, put it aside, and never look at it (no data snooping!).
+
+## Explore the Data
+
+**Note:** try to get insights from a filed expert for these steps.
+
+1. Create a copy of the data for exploration (sampling it down to a manageable size if necessary).
+
+2. Create a Jupyter notebook to keep a record of your data exploration.
+
+3. Study each attribute and its characteristics:
+
+   - Name
+
+   - Type (categorical, int/float, bounded/unbounded, text, structured, etc.)
+
+   - % of missing values
+
+   - Noisiness and type of noise (stochastic, outliers, rounding errors, etc.)
+
+   - Possibly useful for the task?
+
+   - Type of distribution (Gaussian, uniform, logarithmic, etc.)
+
+4. For supervised learning tasks, identify the target attribute(s).
+
+5. Visualize the data.
+
+6. Study the correlations between attributes.
+
+7. Study how you would solve the problem manually.
+
+8. Identify the promising transformations you may want to apply.
+
+9. Identify extra data that would be useful.(go back to "[Get the Data](# Get the Data)").
+
+10. Document what you have learned.
+
+## Prepare the Data
