@@ -67,3 +67,19 @@ predictions?**
 possible solutions?**
 
 >If a model performs great on the training data but generalizes poorly to new instances, the model is likely over-fitting the training data (or we got extremely lucky on the training data). Possible solutions to overfitting are getting more data, simplifying the model (select a simpler algorithm, reducing the number of parameters or features used, or regularized the model), or reducing the noise in the training data. 
+
+**16. What is a test set and why would you want to use it?**
+
+> A test set is used to estimate the generalization error that a model will make on new instances, before the model is launched in production.
+
+**17. What is the purpose of a validation set?**
+
+>A validation set is used to compare models. It makes it possible to select the best model and tune the hyperparameters.
+
+**18. What can go wrong if you tune hyperparameter using the test set?**
+
+>If you tune hyperparameters using the test set, you risk overfitting the test set, and the generalization error you measure will be optimistic (you may launch a model that performs worse than you expect).
+
+**19. What is cross-validation and why would you prefer it to a validation set?**
+
+>Cross-validation is a technique that makes it possible to compare models (for model selection and hyperparameter tuning) without the need for a separate validation set. This saves precious training data.
