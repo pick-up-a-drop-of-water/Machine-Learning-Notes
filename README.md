@@ -244,6 +244,6 @@ This checklist can guide you through your Machine Learning projects. There are e
 
 7. Short-list the top there to five most promising models, preferring models that make different types of errors.
 
-back to [the eight step](#:dart:Checklist for Machine Learning project)
+back to [the eight main steps](#:dart:Checklist-for-Machine-Learning-project)
 
 ### Fine-Tune the System
