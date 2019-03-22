@@ -149,7 +149,7 @@ possible solutions?**
 10. Check the size and type of data (time series, sample, geographical, etc.).
 11. Sample a test set, put it aside, and never look at it (no data snooping!).
 
-Back to [the eight main steps](#Checklist-for-Machine-Learning-project)
+:smile:Back to [the eight main steps](#Checklist-for-Machine-Learning-project)
 
 ### Explore the Data
 
@@ -187,7 +187,7 @@ Back to [the eight main steps](#Checklist-for-Machine-Learning-project)
 
 10. Document what you have learned.
 
-Back to [the eight main steps](#Checklist-for-Machine-Learning-project)
+:smile:Back to [the eight main steps](#Checklist-for-Machine-Learning-project)
 
 ### Prepare the Data
 **Notes:**
@@ -224,7 +224,7 @@ Back to [the eight main steps](#Checklist-for-Machine-Learning-project)
 
 4. **Feature scaling: standardize or normalize features.**
 
-Back to [the eight main steps](#Checklist-for-Machine-Learning-project)
+:smile:Back to [the eight main steps](#Checklist-for-Machine-Learning-project)
 
 ### Short-List Promising Models
 
@@ -252,6 +252,6 @@ Back to [the eight main steps](#Checklist-for-Machine-Learning-project)
 
 7. Short-list the top there to five most promising models, preferring models that make different types of errors.
 
-Back to [the eight main steps](#Checklist-for-Machine-Learning-project)
+:smile:Back to [the eight main steps](#Checklist-for-Machine-Learning-project)
 
 ### Fine-Tune the System
