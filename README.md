@@ -85,7 +85,7 @@ possible solutions?**
 >Cross-validation is a technique that makes it possible to compare models (for model selection and hyperparameter tuning) without the need for a separate validation set. This saves precious training data.
 ------
 
- ## :dart:Checklist for Machine Learning project
+ ## Checklist for Machine Learning project
 
 This checklist can guide you through your Machine Learning projects. There are eight main steps:
 
@@ -244,6 +244,6 @@ This checklist can guide you through your Machine Learning projects. There are e
 
 7. Short-list the top there to five most promising models, preferring models that make different types of errors.
 
-back to [the eight main steps](#:dart:Checklist-for-Machine-Learning-project)
+back to [the eight main steps](#Checklist-for-Machine-Learning-project)
 
 ### Fine-Tune the System
