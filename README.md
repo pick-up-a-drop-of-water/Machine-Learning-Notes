@@ -131,7 +131,7 @@ possible solutions?**
 
 12. Verify assumptions if possible.
 
-Back to [the eight main steps](#Checklist-for-Machine-Learning-project)
+:smile:Back to [the eight main steps](#Checklist-for-Machine-Learning-project)
 
 ### Get the Data
 
