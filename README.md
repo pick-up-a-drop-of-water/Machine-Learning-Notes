@@ -99,7 +99,7 @@ This checklist can guide you through your Machine Learning projects. There are e
 
 - [ ] [Explore many different models and short-list the best ones](#Short-List-Promising-Models).
 
-- [ ] Fine-tune your models and combine them into a great solution.
+- [ ] [Fine-tune your models and combine them into a great solution](#Fine-Tune-the-System).
 
 - [ ] Present your solution.
 
