@@ -97,7 +97,7 @@ This checklist can guide you through your Machine Learning projects. There are e
 
 - [ ] [Prepare the data to better expose the underlying data patterns to Machine Learning algorithms](#Prepare-the-Data).
 
-- [ ] Explore many different models and short-list the best ones.
+- [ ] [Explore many different models and short-list the best ones](#Short-List-Promising-Models).
 
 - [ ] Fine-tune your models and combine them into a great solution.
 
