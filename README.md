@@ -184,3 +184,64 @@ This checklist can guide you through your Machine Learning projects. There are e
 10. Document what you have learned.
 
 ### Prepare the Data
+**Notes:**
+
+- Work on copies of the data (keep the original dataset intact).
+
+- Write functions for all data transformations you apply, for five reasons:
+  — So you can easily prepare the data the next time you get a fresh datasets
+
+  — So you can apply these tranformations in future projects
+
+  — To clean and prepare the test set
+
+  — To clean and prepare new data instances once your solution is live
+
+  — To make it easy to treat your preparation choices as hyperparameters
+
+1. **Data cleaning:**
+
+   - Fix or remove outliers (optional).
+
+   - Fill in mission values (e.g., with zero, mean, median...) or drop their rows (or columns).
+
+2. **Feature selection (optional):**
+
+   - Drop the attributes that provide no useful information for the task.
+
+3. **Feature engineering, where appropriate:**
+
+   - Discretize continuous features.
+   - Decompose feature (e.g., categorical, date/time, etc.).
+   - Add promising transformations of features (e.g., log(x), sqrt(x), x^2, etc.).
+   - Aggregate features into promising new features.
+
+4. **Feature scaling: standardize or normalize features.**
+
+### Short-List Promising Models
+
+**Notes:**
+
+- If the data is huge, you may want to sample smaller training sets so you can train many different models in a reasonable time (be aware that this penalizes complex models such as large neural nets or Random Forests).
+
+- Once again, try to automate these steps as much as possible.
+
+1. Train many quick and dirty models from different categories (e.g., linear, naive Bayes, SVM, Random Forests, neural net, etc.) using standard parameters.
+
+2. Measure and compare their performance.
+
+   - For each model, use N-fold cross-validation and compute the mean and standard deviation of the performance measure on the N folds.
+
+3. Analyze the most significant variables for each algorithm.
+
+4. Analyze the types of errors the models make.
+
+   - What data would a human have used to avoid these errors?
+
+5. Have a quick round of feature selection and engineering.
+
+6. Have one or two more quick iterations of the five previous steps.
+
+7. Short-list the top there to five most promising models, preferring models that make different types of errors.
+
+### Fine-Tune the System
