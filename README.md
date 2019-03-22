@@ -87,7 +87,7 @@ possible solutions?**
 
  ## Checklist for Machine Learning project
 
-This checklist can guide you through your Machine Learning projects. There are eight main steps::dart:
+:dart:This checklist can guide you through your Machine Learning projects. There are eight main steps:
 
 - [ ] [Frame the problem and look at the big picture](#Frame-the-Problem-and-Look-at-the-Big-Picture).
 
@@ -131,6 +131,8 @@ This checklist can guide you through your Machine Learning projects. There are e
 
 12. Verify assumptions if possible.
 
+Back to [the eight main steps](#Checklist-for-Machine-Learning-project)
+
 ### Get the Data
 
 **Note:** automate as much as possible so you can easily get fresh data.
@@ -146,6 +148,8 @@ This checklist can guide you through your Machine Learning projects. There are e
 9. Ensure sensitive information is deleted or protected (e.g., anonymized).
 10. Check the size and type of data (time series, sample, geographical, etc.).
 11. Sample a test set, put it aside, and never look at it (no data snooping!).
+
+Back to [the eight main steps](#Checklist-for-Machine-Learning-project)
 
 ### Explore the Data
 
@@ -183,6 +187,8 @@ This checklist can guide you through your Machine Learning projects. There are e
 
 10. Document what you have learned.
 
+Back to [the eight main steps](#Checklist-for-Machine-Learning-project)
+
 ### Prepare the Data
 **Notes:**
 
@@ -218,6 +224,8 @@ This checklist can guide you through your Machine Learning projects. There are e
 
 4. **Feature scaling: standardize or normalize features.**
 
+Back to [the eight main steps](#Checklist-for-Machine-Learning-project)
+
 ### Short-List Promising Models
 
 **Notes:**
@@ -244,6 +252,6 @@ This checklist can guide you through your Machine Learning projects. There are e
 
 7. Short-list the top there to five most promising models, preferring models that make different types of errors.
 
-back to [the eight main steps](#Checklist-for-Machine-Learning-project)
+Back to [the eight main steps](#Checklist-for-Machine-Learning-project)
 
 ### Fine-Tune the System
