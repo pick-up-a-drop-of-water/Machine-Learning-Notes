@@ -269,7 +269,7 @@ possible solutions?**
 
 3. Once you are confident about your final model, measure its performance on the test set to estimate the generalization error.
 
-**Warning::exclamation:** Don't tweak your model after measuring the generalization error: you would just start overfitting the test set.
+:exclamation::exclamation:**Warning:** Don't tweak your model after measuring the generalization error: you would just start overfitting the test set.
 
 :smile:Back to [the eight main steps!](#Checklist-for-Machine-Learning-project)
 
