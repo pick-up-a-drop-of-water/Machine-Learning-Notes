@@ -289,6 +289,7 @@ possible solutions?**
    - List your assumptions and your system's limitations.
 
 5. Ensure your key findings are communicated through beautiful visualizations or easy-to-remember statements (e.g., "the median income is the number-one predictor of housing prices").
+:smile:Back to [the eight main steps!](#Checklist-for-Machine-Learning-project)
 
 ### Launch
 
