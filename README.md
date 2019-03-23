@@ -270,6 +270,7 @@ possible solutions?**
 3. Once you are confident about your final model, measure its performance on the test set to estimate the generalization error.
 
 **Warning:** Don't tweak your model after measuring the generalization error: you would just start overfitting the test set.
+
 :smile:Back to [the eight main steps!](#Checklist-for-Machine-Learning-project)
 
 ### Present Your Solution
@@ -289,6 +290,7 @@ possible solutions?**
    - List your assumptions and your system's limitations.
 
 5. Ensure your key findings are communicated through beautiful visualizations or easy-to-remember statements (e.g., "the median income is the number-one predictor of housing prices").
+
 :smile:Back to [the eight main steps!](#Checklist-for-Machine-Learning-project)
 
 ### Launch
@@ -304,4 +306,5 @@ possible solutions?**
    - Also monitor your inputs' quality (e.g., a malfunctioning sensor sending random values, or another team's output becoming stale). This is particularly important for online learning systems.
 
 3. Retrain your models on a regular basis on fresh data (automate as much as possible).
+
 :smile:Back to [the eight main steps!](#Checklist-for-Machine-Learning-project)
