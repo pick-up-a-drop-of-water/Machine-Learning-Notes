@@ -310,3 +310,5 @@ possible solutions?**
 :smile:Back to [the eight main steps!](#Checklist-for-Machine-Learning-project)
 
 :tada: :tada: :tada: **Congratulations, you have seen all of the checklist!**:checkered_flag: :checkered_flag: :checkered_flag: 
+
+------
