@@ -308,4 +308,5 @@ possible solutions?**
 3. Retrain your models on a regular basis on fresh data (automate as much as possible).
 
 :smile:Back to [the eight main steps!](#Checklist-for-Machine-Learning-project)
-:tada: :tada: :tada: **Congratulations, you have seen all of the checklist!**
+
+:tada: :tada: :tada: **Congratulations, you have seen all of the checklist!**:checkered_flag: :checkered_flag: :checkered_flag: 
