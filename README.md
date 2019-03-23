@@ -101,9 +101,9 @@ possible solutions?**
 
 - [ ] [Fine-tune your models and combine them into a great solution](#Fine-Tune-the-System).
 
-- [ ] Present your solution.
+- [ ] [Present your solution](#Present-Your-Solution).
 
-- [ ] Launch, monitor, and maintain your system.
+- [ ] [Launch, monitor, and maintain your system](#Launch!).
 
 ### Frame the Problem and Look at the Big Picture
 
