@@ -1,4 +1,4 @@
-from p5_opt_stratified_sampling import strat_test_set
+from p05_opt_stratified_sampling import strat_test_set
 from p12_fine_tune_model import *
 
 final_model = grid_search.best_estimator_
