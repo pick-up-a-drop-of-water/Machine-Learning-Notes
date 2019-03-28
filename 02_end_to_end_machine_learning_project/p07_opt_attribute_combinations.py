@@ -1,4 +1,4 @@
-from p5_opt_stratified_sampling import strat_train_set
+from p05_opt_stratified_sampling import strat_train_set
 
 housing = strat_train_set.copy()
 
