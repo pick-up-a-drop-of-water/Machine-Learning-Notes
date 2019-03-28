@@ -1,4 +1,4 @@
-from p5_opt_stratified_sampling import *
+from p05_opt_stratified_sampling import *
 import matplotlib.pylab as plt
 
 housing = strat_train_set.copy()
