@@ -1,4 +1,4 @@
-from p5_opt_stratified_sampling import strat_train_set
+from p05_opt_stratified_sampling import strat_train_set
 import pandas as pd
 import numpy as np
 
