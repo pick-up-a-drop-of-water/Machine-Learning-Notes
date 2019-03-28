@@ -1,4 +1,4 @@
-from p2_load_the_data import housing
+from p02_load_the_data import housing
 import numpy as np
 from sklearn.model_selection import StratifiedShuffleSplit
 
