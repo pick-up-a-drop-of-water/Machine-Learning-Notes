@@ -1,4 +1,4 @@
-from p8_prepare_data_for_ML_algorithms import *
+from p08_prepare_data_for_ML_algorithms import *
 from sklearn.pipeline import Pipeline
 from sklearn.preprocessing import StandardScaler
 
@@ -19,7 +19,7 @@ Scikit-Learn provides a FeatureUnion class for this.
 All full pipeline handling both numerical and categorical attributes may 
 look like this:
 '''
-from p0_preparation import CategoricalEncoder
+from p00_preparation import CategoricalEncoder
 from sklearn_features.transformers import DataFrameSelector
 from sklearn.pipeline import FeatureUnion
 
