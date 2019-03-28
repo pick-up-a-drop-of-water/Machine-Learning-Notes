@@ -1,4 +1,4 @@
-from p2_load_the_data import housing
+from p02_load_the_data import housing
 
 # Also, here comes the simplest way to split dataset
 from sklearn.model_selection import train_test_split
