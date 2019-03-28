@@ -1,4 +1,4 @@
-from p2_load_the_data import housing
+from p02_load_the_data import housing
 import matplotlib.pylab as plt
 
 housing.hist(bins=50, figsize=(20, 15))
